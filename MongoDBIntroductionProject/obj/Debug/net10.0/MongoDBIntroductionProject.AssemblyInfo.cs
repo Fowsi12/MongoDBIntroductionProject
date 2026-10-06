@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoDBIntroductionProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac9d76e7b6a3d8fc91fad7375bca4297adb711a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoDBIntroductionProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoDBIntroductionProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

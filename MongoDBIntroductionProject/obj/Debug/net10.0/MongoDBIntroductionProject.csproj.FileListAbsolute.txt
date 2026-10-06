@@ -44,3 +44,4 @@ C:\Users\fowsi\Downloads\MongoDBIntroductionProject\MongoDBIntroductionProject\M
 C:\Users\fowsi\Downloads\MongoDBIntroductionProject\MongoDBIntroductionProject\MongoDBIntroductionProject\obj\Debug\net10.0\MongoDBIntroductionProject.pdb
 C:\Users\fowsi\Downloads\MongoDBIntroductionProject\MongoDBIntroductionProject\MongoDBIntroductionProject\obj\Debug\net10.0\MongoDBIntroductionProject.genruntimeconfig.cache
 C:\Users\fowsi\Downloads\MongoDBIntroductionProject\MongoDBIntroductionProject\MongoDBIntroductionProject\obj\Debug\net10.0\ref\MongoDBIntroductionProject.dll
+C:\Users\fowsi\Downloads\MongoDBIntroductionProject\MongoDBIntroductionProject\MongoDBIntroductionProject\obj\Debug\net10.0\MongoDBIntroductionProject.sourcelink.json
